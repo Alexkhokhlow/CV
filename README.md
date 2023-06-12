@@ -10,3 +10,11 @@ I completed courses in [RSShool](https://rs.school/). Link to [my CV in RSSHool]
  
 **Online store** - This is an online store site. There is a page with a product, each product has its own page and there is a basket where you can interact with the product. There is also a form of payment. Link to [deploy](https://alexkhokhlow-online-store.netlify.app/) and [repository](https://github.com/Alexkhokhlow/online-store).
 
+**Small learning projects**
+1. [Online-zoo](https://alexkhokhlow.github.io/online-zoo/online-zoo/pages/main/).
+2. [Photo filter](https://alexkhokhlow.github.io/photo-filter/).
+3. [Puzzle](https://alexkhokhlow.github.io/puzzle/puzzle/dist/).
+4. [Virtual Piano](https://alexkhokhlow.github.io/piano/).
+5. [Wildlife](https://alexkhokhlow.github.io/wildlife/).
+6. [SongBird](https://alexkhokhlow-songbird.netlify.app).
+
