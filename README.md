@@ -1,7 +1,7 @@
 # My CV #
 
 My name is **Aliaksei Khakhlou.** 
-I have been studying web development for over a year. Main stack: **JS, Angular, TS. SCSS**. I have basic knowledge: **Node.js, Express, PostrgreSQL.**  
+I have been studying web development for over a year. Main stack: **JS, Angular, TS, SCSS**. I have basic knowledge: **Node.js, Express, PostrgreSQL.**  
 I completed courses in [RSShool](https://rs.school/). Link to [my CV in RSSHool](https://app.rs.school/cv/ac2ee5d4-6a62-4db7-b215-4e46bc98f7db).
 
 ## My projects ##
