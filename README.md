@@ -5,6 +5,10 @@ I have been studying web development for over a year. Main stack: **JS, Angular,
 I completed courses in [RSShool](https://rs.school/). Link to [my CV in RSSHool](https://app.rs.school/cv/ac2ee5d4-6a62-4db7-b215-4e46bc98f7db).  
 My English level - B1.
 
+
+![Codewars](https://github.r2v.ch/codewars?user=rsschool_123d415541b2b51b&stroke=COLOR)
+
+
 ## My projects ##
 
 [**Trello-clone**](https://clonetrello.netlify.app/home) - This application is similar to Trello. Link to [deploy](https://clonetrello.netlify.app/home), [repository](https://github.com/Alexkhokhlow/rs-clone) and server [repository](https://github.com/Alexkhokhlow/server). Sockets are implemented in the project, so changes on the board can be viewed by several users in real time. Due to the fact that the server is free, sometimes there is a delay.
